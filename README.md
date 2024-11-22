@@ -1,5 +1,4 @@
-# shopping-cart
-Project Overview
+# project overview
 Develop a Shopping Cart application that allows users to add items to their cart, update quantities, and checkout. The application should handle concurrent access to the cart and ensure data consistency using transaction management. 
 It should also include a simple front-end using Angular.
 
