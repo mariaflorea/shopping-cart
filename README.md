@@ -3,7 +3,8 @@ Develop a Shopping Cart application that allows users to add items to their cart
 It should also include a simple front-end using Angular.
 
 # Functional Requirements
-User Management (optional?)
+
+<b>User Management (optional?)</b>
 
 Users should be able to register and log in.
 User data should be stored in the database.
