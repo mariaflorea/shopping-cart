@@ -25,7 +25,6 @@ Display the total price of the items in the cart.
 
 Users can proceed to checkout.
 The application should handle stock validation and update the stock quantity accordingly.
-Ensure that the checkout process is atomic and handles concurrent access.
 
 <b>Transaction Management:</b>
 
