@@ -29,7 +29,6 @@ The application should handle stock validation and update the stock quantity acc
 <b>Transaction Management:</b>
 
 Use Spring's transaction management to ensure data consistency.
-Implement optimistic locking to handle concurrent updates to the cart --> shall we give this hint or let them come up with the solution?
 
 <b>Multi-threading:</b>
 
