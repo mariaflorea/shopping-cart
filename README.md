@@ -43,7 +43,6 @@ Use Hibernate for ORM.
 <b>Security:</b>
 
 Implement basic authentication and authorization.
-Secure sensitive data.
 
 <b>Front-End:</b>
 
